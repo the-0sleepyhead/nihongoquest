@@ -1,1 +1,1 @@
-print("ohayo")
+print("ohayo gozaimasu")
